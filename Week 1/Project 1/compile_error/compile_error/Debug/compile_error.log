@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\28655\OneDrive - Temple City Unified School District\Documents\CS 31\Week 1\Project 1\compile_error\compile_error\Source.cpp(8,5): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\28655\OneDrive - Temple City Unified School District\Documents\CS 31\Week 1\Project 1\compile_error\compile_error\Source.cpp(15,15): error C2678: binary '>': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+C:\Users\28655\OneDrive - Temple City Unified School District\Documents\CS 31\Week 1\Project 1\compile_error\compile_error\Source.cpp(15,15): message : could be 'built-in C++ operator>(int, int)'
+C:\Users\28655\OneDrive - Temple City Unified School District\Documents\CS 31\Week 1\Project 1\compile_error\compile_error\Source.cpp(15,15): message : while trying to match the argument list '(std::istream, int)'
